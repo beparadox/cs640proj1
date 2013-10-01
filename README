@@ -1,0 +1,9 @@
+#@file README.md
+#@date 9/
+#@desc README file for the first project for CS 640 at UW-Madison, Fall 2013
+#
+#
+
+Initial project skeleton will contain a .c file for the project
+As well as a .h file
+And the make file
